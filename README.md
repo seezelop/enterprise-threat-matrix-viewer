@@ -29,14 +29,13 @@ Explorador web **no oficial** de [MITRE ATT&CK® Enterprise](https://attack.mitr
 
 Abrí `index.html` en Firefox o Chromium. La primera carga necesita Internet para obtener el dataset oficial; los datos se guardan en una caché local del navegador.
 
-## Publicación con GitHub Pages
+## Demo online
 
-1. Creá un repositorio público y subí estos archivos conservando su estructura.
-2. En **Settings > Pages**, seleccioná **Deploy from a branch**.
-3. Elegí la rama `main` y la carpeta `/(root)`; guardá.
-4. GitHub mostrará la URL pública del sitio una vez desplegado.
+[**Abrir Enterprise Threat Matrix Viewer**](https://seezelop.github.io/enterprise-threat-matrix-viewer/)
 
-No se necesita backend ni proceso de compilación.
+La aplicación funciona directamente desde el navegador, sin instalación ni backend.
+
+La primera carga requiere conexión a Internet para obtener los datos oficiales de MITRE ATT&CK.
 
 ## Datos y alcance
 
